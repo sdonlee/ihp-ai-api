@@ -1,0 +1,74 @@
+item {
+    id: 1
+    name: 'bottle_2'
+}
+
+item {
+    id: 2
+    name: 'bottle_0'
+}
+
+item {
+    id: 3
+    name: 'bottle_1'
+}
+
+item {
+    id: 4
+    name: 'cap'
+}
+
+item {
+    id: 5
+    name: 'pill_0'
+}
+
+item {
+    id: 6
+    name: 'bottle_3'
+}
+
+item {
+    id: 7
+    name: 'mouth_1'
+}
+
+item {
+    id: 8
+    name: 'hand_3'
+}
+
+item {
+    id: 9
+    name: 'bottle_4'
+}
+
+item {
+    id: 10
+    name: 'pill1'
+}
+
+item {
+    id: 11
+    name: 'bottl_5'
+}
+
+item {
+    id: 12
+    name: 'mouth_0'
+}
+
+item {
+    id: 13
+    name: 'hand_2'
+}
+
+item {
+    id: 14 
+    name: 'hand_1'
+}
+
+item {
+    id: 15
+    name: 'hand_0'
+}

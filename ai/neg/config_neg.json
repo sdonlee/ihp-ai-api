@@ -1,0 +1,7 @@
+{
+    "NEG": {
+        "THR_DRK": 0.9,
+        "THR_MTL": 0.95,
+        "TIME_RANGE": 0.5
+    }
+}

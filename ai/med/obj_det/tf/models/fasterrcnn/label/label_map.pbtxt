@@ -1,0 +1,74 @@
+item {
+    id: 1
+    name: 'grab_bottle_cap'
+}
+
+item {
+    id: 2
+    name: 'bottle'
+}
+
+item {
+    id: 3
+    name: 'bottle_open'
+}
+
+item {
+    id: 4
+    name: 'cap'
+}
+
+item {
+    id: 5
+    name: 'pill'
+}
+
+item {
+    id: 6
+    name: 'grab_bottle_body'
+}
+
+item {
+    id: 7
+    name: 'eat'
+}
+
+item {
+    id: 8
+    name: 'hand_sub_curve'
+}
+
+item {
+    id: 9
+    name: 'pullout_main'
+}
+
+item {
+    id: 10
+    name: 'pick_pill'
+}
+
+item {
+    id: 11
+    name: 'hand_main_bottle'
+}
+
+item {
+    id: 12
+    name: 'face_nose_mouth'
+}
+
+item {
+    id: 13
+    name: 'hand_sub_side'
+}
+
+item {
+    id: 14 
+    name: 'hand_sub_palm'
+}
+
+item {
+    id: 15
+    name: 'hand_sub_wrist'
+}

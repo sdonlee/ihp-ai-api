@@ -1,0 +1,23 @@
+{
+    "MED": {
+        "DEFAULT_PATH": "/root/ENService/ai/med",
+        "OBJDET": {
+            "TST001DMO": {
+                "LIB": "tf",
+                "MODEL": "fasterrcnn",
+                "THR_DET": 0.7,
+                "THR_IOU": 0.45,
+                "CLP_SIZE": 7,
+                "THR_nCLP": 24
+            },
+            "IHP009INV": {
+                "LIB": "pytorch",
+                "MODEL": "yolov7",
+                "THR_DET": 0.2,
+                "THR_IOU": 0.0,
+                "CLP_SIZE": 7,
+                "THR_nCLP": 24
+            }
+        }
+    }
+}
